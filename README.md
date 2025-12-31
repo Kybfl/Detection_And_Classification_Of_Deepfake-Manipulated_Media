@@ -28,15 +28,24 @@ It features a hybrid architecture combining **OpenCV DNN** for robust face detec
 ## 📸 Screenshots
 
 ### 1. Home Dashboard & System Status
-![Home Page](D:\Git_Projeler\Detection_And_Classification_Of_Deepfake-Manipulated_Media\App_ScreenShots\homepage.png)
+![Home Page]
+
+<img width="1196" height="515" alt="homepage" src="https://github.com/user-attachments/assets/3d9a1b58-a071-4415-80a3-c04f78d1272b" />
+
 *Displays system readiness, model status, and supported manipulation types.*
 
 ### 2. Image Analysis Module
-![Image Analysis](D:\Git_Projeler\Detection_And_Classification_Of_Deepfake-Manipulated_Media\App_ScreenShots\pictureanalyse.png)
+![Image Analysis]
+
+<img width="961" height="476" alt="pictureanalyse" src="https://github.com/user-attachments/assets/444ec0af-58e3-4181-8129-a89b0a0304dc" />
+
 *Detects faces, applies classification, and provides a probability distribution chart.*
 
 ### 3. Real-Time Video Analysis
-![Video Analysis](D:\Git_Projeler\Detection_And_Classification_Of_Deepfake-Manipulated_Media\App_ScreenShots\videoanalyse.png)
+![Video Analysis]
+
+<img width="961" height="480" alt="videoanalyse" src="https://github.com/user-attachments/assets/a6d131c1-80cc-4596-a0cb-683511a06d8c" />
+
 *Frame-by-frame analysis with dynamic confidence tracking.*
 
 ---
@@ -55,8 +64,6 @@ It features a hybrid architecture combining **OpenCV DNN** for robust face detec
 ## 🚀 Installation
 
 Follow these steps to set up the project locally.
-
-
 
 ---
 
