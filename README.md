@@ -82,11 +82,11 @@ Update all file and directory paths inside these scripts so that they match your
 Run the following commands in your terminal to download the video data and extract frames:
 
 ```bash
-# Download video data
-python download.py
+# To dowmload 15 original datas
+python download.py D:\xx\xx --dataset original --compression raw --num_videos 15 --server EU2
 
-# Extract frames from compressed videos
-python extract_compressed_videos.py
+# Extract frames from compressed DeepFake videos
+python extract_compressed_videos.py --data_path D:\xx\xx --dataset Deepfakes --compression raw 
 ```
 
 After completing these steps, the dataset will be ready for training or inference.
