@@ -123,7 +123,7 @@ Once the dataset preparation (if required) and model configuration are complete,
 ```bash
 streamlit run app.py
 
-If it doesn't work try adding your full path
+# If it doesn't work try adding your full path
 streamlit run D:\xx\xx\app.py
 
 ```
