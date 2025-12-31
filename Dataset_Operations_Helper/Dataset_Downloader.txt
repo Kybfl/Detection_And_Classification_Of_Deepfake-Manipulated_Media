@@ -1,0 +1,31 @@
+Original Videos :
+--------------------
+python download.py D:\xx\xx --dataset original --compression raw --num_videos 15 --server EU2
+
+
+Manipulated Videos:
+--------------------------------------
+DeepFakes:
+
+python download.py D:\xx\xx --dataset Deepfakes --compression raw --num_videos 15 --server EU2
+
+
+Face2Face:
+
+python download.py D:\xx\xx --dataset Face2Face --compression raw --num_videos 15 --server EU2
+
+
+FaceSwap:
+
+python download.py D:\xx\xx --dataset FaceSwap --compression raw --num_videos 15 --server EU2
+
+
+NeuralTextures:
+
+python download.py D:\xx\xx --dataset NeuralTextures --compression raw --num_videos 15 --server EU2
+
+
+FaceShifter:
+
+python download.py D:\xx\xx --dataset FaceShifter --compression raw --num_videos 15 --server EU2
+

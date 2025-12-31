@@ -1,0 +1,14 @@
+Extraction
+-----------
+python extract_compressed_videos.py --data_path D:\xx\xx --dataset youtube --compression raw
+
+python extract_compressed_videos.py --data_path D:\xx\xx --dataset Deepfakes --compression raw 
+
+python extract_compressed_videos.py --data_path D:\xx\xx --dataset Face2Face --compression raw 
+
+python extract_compressed_videos.py --data_path D:\xx\xx --dataset FaceSwap --compression raw 
+
+python extract_compressed_videos.py --data_path D:\xx\xx --dataset NeuralTextures --compression raw 
+
+python extract_compressed_videos.py --data_path D:\xx\xx --dataset FaceShifter --compression raw 
+
