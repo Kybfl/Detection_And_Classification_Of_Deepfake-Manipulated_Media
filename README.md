@@ -142,31 +142,6 @@ You can now upload your data and test the trained deepfake detection model throu
 
 ---
 
-## Project File Structure
-
-# 🕵️‍♂️ Deepfake Detection and Classification System
-
-**A robust, modular, and audit-ready deep learning application for detecting and classifying manipulated media content.**
-
-![Project Banner](placeholder_for_banner.png)
-*(Please insert your project banner image here)*
-
-## 📖 Overview
-
-This project is a Computer Engineering Capstone Project designed to detect and classify deepfake videos and images. It utilizes a hybrid architecture combining **OpenCV DNN** (for face detection) and **EfficientNet-B0** (for classification).
-
-Unlike standard binary classifiers (Real vs. Fake), this system identifies the specific manipulation technique used:
-* **Original**
-* **Deepfakes**
-* **Face2Face**
-* **FaceSwap**
-* **FaceShifter**
-* **NeuralTextures**
-
-The system features a **Streamlit** web interface for real-time analysis and includes a secure **Audit Logging** system (SHA-256 & SQLite) to ensure data integrity.
-
----
-
 ## 📂 Project Structure
 
 For the application to run without errors, ensure your local directory structure matches the hierarchy below:
