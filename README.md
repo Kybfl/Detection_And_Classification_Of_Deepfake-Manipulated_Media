@@ -206,24 +206,8 @@ This project includes components from multiple sources:
 
 ## 📚 FaceForensics++ Citation
 
-The detection model in this project was trained using the **FaceForensics++** dataset. If you use this work in academic research, please cite the original FaceForensics++ paper:
-
-```bibtex
-@inproceedings{rössler2019faceforensics,
-  title={FaceForensics++: Learning to Detect Manipulated Facial Images},
-  author={Rössler, Andreas and Cozzolino, Davide and Verdoliva, Luisa and Riess, Christian and Thies, Justus and Nießner, Matthias},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2019}
-}
-```
+The detection model in this project was trained using the **FaceForensics++** dataset. The FaceForensics++ dataset is a large-scale forensics dataset containing pristine videos and manipulated versions created with five state-of-the-art face manipulation techniques, including DeepFakes, Face2Face, FaceSwap, FaceShifter, and Neural Textures - all manipulation methods supported by this detection system. If you use this work in academic research, please cite the original FaceForensics++ paper:
 
 **Dataset Link:** [FaceForensics++ - Technical University of Munich](https://github.com/ondyari/FaceForensics)
 
-**Citation Details:**
-- **Authors:** Rössler et al.
-- **Year:** 2019
-- **Conference:** IEEE/CVF International Conference on Computer Vision (ICCV)
-- **DOI:** 10.1109/ICCV.2019.00928
-
-The FaceForensics++ dataset is a large-scale forensics dataset containing pristine videos and manipulated versions created with five state-of-the-art face manipulation techniques, including DeepFakes, Face2Face, FaceSwap, FaceShifter, and Neural Textures - all manipulation methods supported by this detection system.
 
