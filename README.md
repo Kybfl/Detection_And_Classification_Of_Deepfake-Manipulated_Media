@@ -122,6 +122,10 @@ Once the dataset preparation (if required) and model configuration are complete,
 
 ```bash
 streamlit run app.py
+
+If it doesn't work try adding your full path
+streamlit run D:\xx\xx\app.py
+
 ```
 
 The application will automatically open in your default web browser, typically at:
@@ -188,7 +192,7 @@ Detection_And_Classification_Of_Deepfake-Manipulated_Media/
 
 ---
 
-## 📜 Licenses
+## 📜 Sources
 
 This project includes components from multiple sources:
 
